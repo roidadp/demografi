@@ -66,3 +66,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # tugas-demografi
 # tugas-demografi
 # uas-demografi
+# uas-demografi
